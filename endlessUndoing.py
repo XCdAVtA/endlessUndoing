@@ -1,6 +1,5 @@
 
 # testrun: python3 endlessUndoing.py
-# testing upload again AGAIN
 
 # imports
 import time
